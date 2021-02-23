@@ -1,0 +1,2 @@
+# RelationshipCalculator_javafx
+亲戚关系计算器，通过javafx实现界面的展示，并且使用的算法不同
